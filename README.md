@@ -18,3 +18,7 @@ lib
 * Models - contains the data model used
 * Providers - contains the Todo provider that contains the data and method logic
 * Screens - contains the screen/widgets used
+
+
+## ToDo 
+1. fix modal_todo, todo_page
